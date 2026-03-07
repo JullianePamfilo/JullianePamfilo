@@ -32,7 +32,7 @@ Interactive 3D environment built in C++ using OpenGL with custom shapes, texture
 ## Connect
 
 🌐 Portfolio  
-https://software-engineer-portfolio-sable.vercel.app
+https://www.jullianepamfilo.com/
 
 💼 LinkedIn  
 https://linkedin.com/in/julliane-pamfilo
